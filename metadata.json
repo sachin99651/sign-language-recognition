@@ -1,0 +1,6 @@
+{
+  "name": "SignSense AI - Sign Language Recognition System",
+  "description": "Real-time sign language recognition powered by computer vision hand tracking, machine learning gesture classification, and AI translation.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
